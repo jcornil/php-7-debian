@@ -1,4 +1,4 @@
-# Install PHP 7 on Debian/Ubuntu
+# Install PHP 7 on Debian
 
 These are a set of bash scripts for building and running PHP 7 (CLI and FPM) on Debian based Linux distributions:
 
